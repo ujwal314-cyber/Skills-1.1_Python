@@ -1,0 +1,2 @@
+from module import func
+# when a module is imported then the entire code is imported then the statements outside a function will also be executed ehen this prog is run if at all a function is called in its module then it would be executed when this prog is run eventhough the function is not called here
